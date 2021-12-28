@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @michal1981C
 - 👀 I’m interested in coding and cyber security.
-- 🌱 I’m currently learning python, rust, and making first steps in Java.
-- 📫 If you want to reach my just leave a message here and I'll answer ASAP.
+- 🌱 I’m currently learning python, rust, and making first steps in JavaScript.
 
 <!---
 michal1981C/michal1981C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
